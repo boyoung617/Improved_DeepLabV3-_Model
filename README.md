@@ -18,14 +18,14 @@ https://pan.baidu.com/s/1vkk3lMheUm6IjTXznlg7Ng
 
 ### File comments
 
-1.datasets folder before file into the original image file and json file. 
-2.Run josn_to_datasets file to generate semantically segmented images and store them in datasets\SegmentationClass. 
-3.img folder to store test images. The img_out folder contains the superposed image of the actual image output from the test image and the segmented image. 
-5.logs store the training and validation loss change images, miou change images, and the weights under each training stage epoch. 
-6.miou_out stores test result graphs of miou, mpa, precision, recall and confusion matrix files. 
-7.model_data is a pre-trained weights file that you can use to train your own dataset. 
-8. The backbone network, DySample and CBAM modules used in this paper are placed in the nets folder 
-9.VOCdevkit is in 2007 format, so you need to put the JPEGImages and SegmentationClass file contents from datasets in a folder. VOCdevkit\ImageSets\Segmentation contains the training and validation.txt files.
+1.datasets folder before file into the original image file and json file.  
+2.Run josn_to_datasets file to generate semantically segmented images and store them in datasets\SegmentationClass.  
+3.img folder to store test images. The img_out folder contains the superposed image of the actual image output from the test image and the segmented image.  
+5.logs store the training and validation loss change images, miou change images, and the weights under each training stage epoch.  
+6.miou_out stores test result graphs of miou, mpa, precision, recall and confusion matrix files.  
+7.model_data is a pre-trained weights file that you can use to train your own dataset.  
+8. The backbone network, DySample and CBAM modules used in this paper are placed in the nets folder  
+9.VOCdevkit is in 2007 format, so you need to put the JPEGImages and SegmentationClass file contents from datasets in a folder. VOCdevkit\ImageSets\Segmentation contains the training and validation.txt files.  
 
 ### Program
 #### Training
