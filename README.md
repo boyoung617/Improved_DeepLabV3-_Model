@@ -11,10 +11,10 @@ Python==3.18
 ### File download
 
 The SubLane dataset is available for download at Thunderbolt:
-Link: https://pan.xunlei.com/s/VOBiDBpldbtFoH7C3J3BtTrDA1
+https://pan.xunlei.com/s/VOBiDBpldbtFoH7C3J3BtTrDA1
 
-The Baidu web disk of VOC expansion data set is as follows: 
-Link: https://pan.baidu.com/s/1vkk3lMheUm6IjTXznlg7Ng
+The Baidu web disk of VOC expansion data set is as follows:  
+https://pan.baidu.com/s/1vkk3lMheUm6IjTXznlg7Ng
 
 ### File comments
 
